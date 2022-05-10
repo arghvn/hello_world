@@ -1,5 +1,9 @@
 package main
 
+//Sometimes we’ll want to build our programs into binaries. We can do this using go build.
+
+//We can then execute the built binary directly.
+
 import "fmt"
 
 func main() {
